@@ -6,7 +6,7 @@ namespace IvaGavran_ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav iz aplikacije od Ive Gavran");
+            Console.WriteLine("Pozdrav iz aplikacije od Ive Gavran, 0130311410");
         }
     }
 }
